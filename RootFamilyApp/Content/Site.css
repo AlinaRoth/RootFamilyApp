@@ -1,0 +1,59 @@
+﻿* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.page-wrap {
+    min-height: 100%;
+    /* equal to footer height */
+    margin-bottom: -50px; 
+}
+.page-wrap:after {
+    content: "";
+    display: block;
+}
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Footer */
+footer, .page-wrap:after {
+    height: 50px;
+}
+
+footer {
+    border-top: solid #333333 1px;
+}
+
+.footer .social, .footer .copyright {
+    text-align: center;
+}
+
+.footer .copyright p {
+    margin-bottom: 0;
+}

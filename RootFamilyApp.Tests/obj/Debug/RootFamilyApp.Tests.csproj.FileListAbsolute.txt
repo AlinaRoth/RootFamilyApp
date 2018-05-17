@@ -1,0 +1,2 @@
+D:\Projects\ASP.NET MVC\tsu-root-family-app\RootFamilyApp\RootFamilyApp.Tests\obj\Debug\RootFamilyApp.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\tsu-root-family-app\RootFamilyApp\RootFamilyApp.Tests\obj\Debug\RootFamilyApp.Tests.csproj.CoreCompileInputs.cache

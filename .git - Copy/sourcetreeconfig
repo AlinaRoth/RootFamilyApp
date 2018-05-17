@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoRefresh>true</AutoRefresh>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <CommitTextLinks />
+  <DraftCommitMsg>Init</DraftCommitMsg>
+  <IncomingSavedCount>2</IncomingSavedCount>
+  <LastCheckedRemotes>2018-05-17T13:41:33.7998912+07:00</LastCheckedRemotes>
+  <LastUsedView>Log</LastUsedView>
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <OutgoingSavedCount>2</OutgoingSavedCount>
+  <RemoteProjectLinks>
+    <RepositoryRemoteProjectLink>
+      <BaseUrl>https://www.github.com</BaseUrl>
+      <Identifier>AlinaRoth/RootFamilyApp</Identifier>
+      <RemoteName>origin</RemoteName>
+      <Type>GitHub</Type>
+      <Username>AlinaRoth</Username>
+    </RepositoryRemoteProjectLink>
+  </RemoteProjectLinks>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+    <string>Remotes</string>
+    <string>Stashes</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>210</SidebarWidth>
+  <SubtreeLinks />
+</RepositoryCustomSettings>

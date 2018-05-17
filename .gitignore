@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lock
+/.vs/RootFamilyApp/v15/Server/sqlite3
+/packages
+/.vs/config
+/RootFamilyApp/bin
+/RootFamilyApp/obj/Debug

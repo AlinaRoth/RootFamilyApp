@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-12 col-lg-6">
+        <h2> Essential JS 1 - TagCloud Control</h2>
+        @(Html.EJ().TagCloud("tagEvents")
+              .Title("Tech Sites")
+              .Datasource((IEnumerable<RootFamilyApp.Controllers.HomeController.WebsiteCollection>)ViewBag.Tags)
+              .TagCloudFields(tag => tag.Text("text").Url("url").Frequency("frequency")))
+        <br />
+    </div>
+    <div class="col-md-12 col-lg-6">
+        <h2> Essential JS 2 - Button Component </h2>
+        @Html.EJS().Button("element").Content("Button").Render()
+        <br />
+
+        <h2> Essential JS 2 for ASP.NET MVC Calander </h2>
+        @Html.EJS().Calendar("calendar").Render()
+    </div>
+</div>

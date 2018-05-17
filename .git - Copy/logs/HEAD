@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 768bbc8030e00162e5e4c68d88e4a8b093a86a86 Alina Roth <malina.root@mail.ru> 1525115247 +0700	commit (initial): Init
+768bbc8030e00162e5e4c68d88e4a8b093a86a86 e9a32bf75e6c968b72b520cdd5b3106b275db510 Alina Roth <malina.root@mail.ru> 1525115347 +0700	commit: init
+e9a32bf75e6c968b72b520cdd5b3106b275db510 96cdd30b04d622a6b3b2226c68ad7f3bb2e6978c Alina Roth <malina.root@mail.ru> 1525117771 +0700	commit: Added services stubs
+96cdd30b04d622a6b3b2226c68ad7f3bb2e6978c ae0ef79b998362257c1699934198961c75be52dd Alina Roth <malina.root@mail.ru> 1526370984 +0700	commit: Base entities created, commiting before adding migrations
+ae0ef79b998362257c1699934198961c75be52dd 5b652aa3467ef5fb121628f0bcbdd5305338147f Alina Roth <malina.root@mail.ru> 1526535534 +0700	commit: Implemented models for Gedcom, controller form FamilyTrees
+5b652aa3467ef5fb121628f0bcbdd5305338147f 4dff7a2b66e4efe2c10fd01774baa4994235b29a Alina Roth <malina.root@mail.ru> 1526539339 +0700	commit: Improved Model structure
+4dff7a2b66e4efe2c10fd01774baa4994235b29a 218dcf9564ecbbde0ff5e1d34efdb64fa887ded7 Alina Roth <malina.root@mail.ru> 1526539479 +0700	commit: Minor change
